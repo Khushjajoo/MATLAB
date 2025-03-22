@@ -1,7 +1,4 @@
 % Khushkumar Jajoo
-% 9/11/2021
-% ECE 202 Fall 2021
-% MATLAB exercise M3
 % finding the number of colissions and checking their velocities after
 % each collision between three carts.
 
